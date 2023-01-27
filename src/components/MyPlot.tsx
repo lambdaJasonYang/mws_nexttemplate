@@ -7,8 +7,8 @@ import uPlot from "uplot";
 import "uplot/dist/uPlot.min.css";
 
 interface IChart {
-  options: uPlot.Options;
-  data: uPlot.AlignedData;
+  options?: uPlot.Options;
+  data?: uPlot.AlignedData;
   // target: HTMLElement;
 }
 

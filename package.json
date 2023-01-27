@@ -21,5 +21,8 @@
     "react-dom": "18.2.0",
     "typescript": "4.9.4",
     "uplot": "^1.6.23"
+  },
+  "devDependencies": {
+    "vercel": "^28.13.2"
   }
 }

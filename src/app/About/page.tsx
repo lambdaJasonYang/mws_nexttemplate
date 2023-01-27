@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <UseBootstrap>
     <StubNavbarb/>
-    <Button/>
+    <Button label={''} onClick={undefined}/>
     <Chart />
     <StubNavbarb/>
     
